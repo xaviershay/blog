@@ -1,6 +1,7 @@
 title:            "Xavier Shay: Citizen"
 description:      I write about things.
 canonical: https://xaviershay.github.io/blog/
+baseurl: /blog
 
 # Owner/author information
 owner:
