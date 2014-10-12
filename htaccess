@@ -1,0 +1,6 @@
+---
+layout: none
+permalink: .htaccess
+---
+RewriteCond %{REQUEST_URI}  !\.(jpg|gif|css|png|js)$
+RewriteRule ^(.*)([^/])$ https://%{HTTP_HOST}/$1$2/ [L,R=301]
