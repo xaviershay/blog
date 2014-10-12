@@ -15,7 +15,7 @@ owner:
 # For external links add external: true
 links:
   - title: Archive
-    url: /articles
+    url: /articles/
   - title: About Me
     url: http://xaviershay.com
     external: true
@@ -44,7 +44,7 @@ sass:
     style: :compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink:   /:categories/:title.html
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
