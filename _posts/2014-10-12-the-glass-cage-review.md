@@ -11,7 +11,7 @@ _The Glass Cage_ is an important counterpoint to the dominant automation-at-all-
 
 Three themes in particular stuck in my mind.
 
-## Sharp Tools, Dumb Minds
+### Sharp Tools, Dumb Minds
 
 Carr summarises a number of studies that have measured the effect of computer aided learning.
 
@@ -23,7 +23,7 @@ Expert systems do help experts be more effective, but you need to be an expert f
 
 [mc-problem]: https://en.wikipedia.org/wiki/Missionaries_and_cannibals_problem
 
-## Straightjackets Of The Mind
+### Straightjackets Of The Mind
 
 Several sections are devoted to medical systems and GPS navigation, two of the more common automation aids in widespread use today.
 
@@ -45,7 +45,7 @@ Carr however is more concerned by the alienation this causes rather than the dir
 
 For someone who prides himself on hand-drawn maps to find his destinations, this bit of ego-stroking was not unwelcome.
 
-## Utopian Promise
+### Utopian Promise
 
 The concluding chapter was also perhaps the scariest. Carr considers possible futures, particularly ones in which the relentless drive to automation frees society for the pursuit of leisure. He does not find this scenario plausible:
 
