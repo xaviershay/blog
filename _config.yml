@@ -6,8 +6,6 @@ baseurl: /blog
 # Owner/author information
 owner:
   name:           Xavier Shay
-  avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
   email:          contact@xaviershay.com
   twitter:        xshay
   github:         xaviershay
