@@ -34,14 +34,19 @@
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/i.css">
 
-<!-- Fresh Squeezed jQuery -->
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-
 <meta http-equiv="cleartype" content="on">
 
-<!-- Load Modernizr -->
-<script src="{{ site.baseurl }}/assets/js/vendor/modernizr-2.6.2.custom.min.js"></script>
+{% if site.enforce_ssl %}
+<!--
+  redirect users to the https version of the website.
+  but: only check when on the production domain, as set in _config.yml.
+ -->
+<script type="text/javascript">
+    var enforce = "{{ site.enforce_ssl }}";
+    if ((enforce == window.location.host) && (window.location.protocol != "https:"))
+      window.location = window.location.toString().replace(/^http:/, "https:");
+  </script>
+{% endif %}
 
 <div id="bump">
   <body class="">

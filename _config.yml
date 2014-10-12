@@ -3,6 +3,8 @@ description:      I write about things.
 canonical: https://xaviershay.github.io/blog/
 baseurl: /blog
 
+enforce_ssl: xaviershay.github.io
+
 # Owner/author information
 owner:
   name:           Xavier Shay
