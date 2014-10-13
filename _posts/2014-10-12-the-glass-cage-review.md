@@ -7,7 +7,7 @@ tags: ["review"]
 
 > What if the cost of machines that think is people who don’t?
 
-_The Glass Cage_ is an important counterpoint to the dominant automation-at-all-costs mindset of Silicon Valley. That more automation is better is not as obvious conclusion as many of us would like to believe. Carr is definitely not anti-technology though. This book is level-headed in discussing the positive and negative trends in automation, backed by a large amount of research. From pilots to doctors to inuit hunters, Carr present a comprehensive overview of automation across society today.
+_The Glass Cage_ is an important counterpoint to the dominant automation-at-all-costs mindset of Silicon Valley. That more automation is better is not as obvious a conclusion as many of us would like to believe. Carr is definitely not anti-technology though. This book is level-headed in discussing the positive and negative trends in automation, backed by a large amount of research. From pilots to doctors to inuit hunters, Carr present a comprehensive overview of automation across society today.
 
 Three themes in particular stuck in my mind.
 
