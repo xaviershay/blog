@@ -53,12 +53,13 @@ From within the existing power structure, this is certainly empowering. Extra in
 
 Fortunately, a slight tweak to the contracts can retain the benefits while
 reducing the motivation for exploitation. If a contract is violated, the
-half-wage penalty should go to a third-party of the employee's choosing (such as a charity), rather than the company.
-Employees who respond well to negative motivation could even choose an entity they dislike, though nominating the company itself should be banned to avoid obvious coercion opportunities. Since the dominated contracts never pay more than standard ones, there is no opportunity for the employee to collude with the third-party to increase their earnings. With this arrangement, both employer and employee can benefit without further reinforcing the employer's power.
+half-wage penalty should go to a third-party of the employee's choosing (such as a charity), rather than the company. This is not a new idea: it's a common arrangement used in research and has even been [made into a website](https://www.stickk.com/).
+
+Employees who respond well to negative motivation could even choose an entity they dislike, though nominating the company itself should be banned to avoid obvious coercion opportunities. Since the dominated contracts never pay more than standard ones, there is no opportunity for the employee to collude with the third-party to increase their earnings. Both employer and employee can benefit from this arrangement without further reinforcing the employer's power.
 
 I'd also like to see deeper analysis into the effect of missing targets. What was the impact on output, motivation, retention, and happiness for workers that had to pay penalty rates? The study shows a 9% probability of missing a self-imposed target, with a large 12% standard error. How much of this was within the employee's control? This could technically be measured quantitatively, but in general I feel qualitative interviews with workers would be an interesting complement to this study.
 
-The author concludes mid-way through the article "we have not yet begun to scratch the surface of motivating production in this way". This strikes me as upside down. Let's talk of empowerment, agency, and people instead.
+The author concludes mid-way through the article "we have not yet begun to scratch the surface of motivating production in this way". This strikes me as upside down, and frankly kind of creepy. _Motivating production!?_ Let's talk of empowerment, agency, and people instead.
 
 [^1]: This number from the study's conclusion. The article claims 50%, but I can't find that number in the study. I think I'm reading the tables wrong. Most probably this higher number is for a smaller set of people with bad self-control. The study does note "there is significant and correlated heterogeneity: workers with larger payday effects are both more likely to choose dominated contracts and show greater output increases under them."
 
