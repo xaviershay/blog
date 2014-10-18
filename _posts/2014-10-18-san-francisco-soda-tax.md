@@ -19,7 +19,7 @@ On both counts, I answer in the affirmative.
 ### Government Intervention Is Warranted
 
 [As early as 2001](http://www.ncbi.nlm.nih.gov/books/NBK44206/), the US Surgeon
-General has been warning of a national "Obesity Epedemic". By now, the phrase has become cliché. In San Francisco,
+General has been warning of a national "Obesity Epedemic". By now the phrase has become cliché. In San Francisco
 42% of teenagers and adults are overweight or obese[^1]. It is [well
 established](http://www.hsph.harvard.edu/nutritionsource/healthy-drinks/sugary-drinks/) that sodas are a serious contributor to this problem.
 In the face of such a critical issue combined with a large information
@@ -38,9 +38,9 @@ Much of this would be covered by insurance though[^2], so the Office went furthe
 
 ### Taxes Are Effective At Reducing Consumption
 
-There is ample evidence that a price increase should lower consumption, aside from the predictions of standard price elasticity theory. The most direct results come from Mexico, where a soda tax was instituted last year. All the major producers reported [reduced sales](http://qz.com/239478/mexicos-completely-sensible-anti-soda-tax-is-working/), while surveys reveal Mexicans [lowering their consumption](http://online.wsj.com/articles/survey-shows-mexicans-drinking-less-soda-after-tax-1413226009). A bonus benefit was increased awareness, with 98% believing that drinking soda "raises their risk for developing diabetes and obesity".
+There is ample evidence that price increases should lower consumption. The most direct results come from Mexico, where a comparable soda tax was instituted last year. All the major producers reported [reduced sales](http://qz.com/239478/mexicos-completely-sensible-anti-soda-tax-is-working/), while Mexicans [report lowering their consumption](http://online.wsj.com/articles/survey-shows-mexicans-drinking-less-soda-after-tax-1413226009). A bonus benefit was increased awareness, with 98% believing that drinking soda "raises their risk for developing diabetes and obesity".
 
-If you accept the [analogy to cigarettes](http://www.nytimes.com/2010/02/14/weekinreview/14bittman.html), it is [widely established]((http://tigger.uic.edu/~fjc/Presentations/Papers/taxes_consump_rev.pdf)) that higher prices contributed to reduced consumption:
+If you accept the [analogy to cigarettes](http://www.nytimes.com/2010/02/14/weekinreview/14bittman.html), it is [widely established]((http://tigger.uic.edu/~fjc/Presentations/Papers/taxes_consump_rev.pdf)) that higher prices contribute to reduced consumption:
 
 > The review of the literature clearly shows that the answer to the question
 posed in the title of this chapter ["How Effective are Taxes in Reducing Tobacco Consumption"] is 'very effective'. Increasing cigarette
@@ -54,7 +54,7 @@ even larger reductions in youth and adult tobacco use could be achieved.
 
 This reduction has be shown to be [present even when controlling for other variables](http://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.82.1.94) such as anti-smoking publicity.
 
-The increased price combines with the programs to be funded by revenue from the proposed tax to create a two-pronged attack on obesity, so _even if_ the tax itself does not impact consumption, it is likely that education iniatives made possible by it will. While this is unavoidable a regressive tax, the resulting programs can be directed progressively towards segments of the community most at risk.
+The increased price combines with programs funded by revenue from the proposed tax to create a two-pronged attack on obesity. _Even if_ the tax itself does not impact consumption, it is likely that education initiatives made possible by it will. While this is unavoidably a regressive tax, the resulting programs can be directed progressively towards segments of the community most at risk.
 
 
 Overall, this proposition is an important step towards addressing a widespread and costly health issue. Vote _Yes_ on proposition E.
