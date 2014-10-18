@@ -5,7 +5,9 @@ category: articles
 tags: ["politics"]
 ---
 
-As a non-permanent resident I can't vote in San Francisco. I have lived here for three years though so have some opinions on the upcoming ballot. Ballotpedia has a [full list and text of the propositions](http://ballotpedia.org/San_Francisco_City_and_County,_California_ballot_measures) for your reference.
+As a non-permanent resident I can't vote in San Francisco. I have lived here for three years though so have some opinions on the upcoming ballot. Last week I wrote about the [California State propositions](california-proposition-voting-guide.html), this post is about the local City ones. Ballotpedia has a [full list and text of the propositions](http://ballotpedia.org/San_Francisco_City_and_County,_California_ballot_measures) for your reference, and I also found [SPUR's analysis](https://www.spur.org/sites/default/files/publications_pdfs/SPUR_Voter_Guide_November_2014_print.pdf#page=13) to be useful even though they are partisan.
+
+The short of it is _No_ on H and L, _Yes_ on everything else.
 
 ### Prop A: Transit Improvement Bond
 
@@ -54,7 +56,7 @@ This is a vote for consistency.
 
 ### Prop E: Sugary Drink Tax
 
-I am going to write a separate post in support of this proposition. Strongly in favour.
+I wrote a [separate post](san-franciso-soda-tax.html) in support of this proposition. Strongly in favour.
 
 *Vote: Yes.*
 
