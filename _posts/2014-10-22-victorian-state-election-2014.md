@@ -7,11 +7,11 @@ tags: ['politics']
 
 The Victorian State Election is just six weeks away. In my electorate of
 Melbourne, four candidates are running representing The Greens, Liberal,
-Labour, and The Sex Party. I wanted to take a look at their policies.
+Labor, and The Sex Party. I wanted to take a look at their policies.
 
 ### Liberal
 
-The Liberal Party is the encumbent, and are running on an [all-growth all-the-time
+The Liberal Party is the incumbent, and are running on an [all-growth all-the-time
 platform][lib-platform]. There are a number of issues I have with this.
 
 First, it reminds of the children's book _A Fish Out Of Water_. A boy buys a
@@ -46,9 +46,9 @@ elderly" seems fiscally irresponsible.
 
 [^1]: The Sex Party also rejects punishing clients of sex workers, which is "currently only supported by some conservative elements within the Liberal Party and the Greens." I'm pretty sure that's the only policy those two agree on.
 
-### Labour
+### Labor
 
-Labour has an [impressive spread of policy][labour-platform]. It includes everything from large road and rail infrastructure projects to [token animal rights policy][labour-animals] and an [extra sports holiday][labour-sports]. ([One sports holiday][melbourne-cup] just isn't enough.) If they added a statement on Climate Change it would actually be pretty good, but without it shares a growth obsession with Liberal.
+Labor has an [impressive spread of policy][labour-platform]. It includes everything from large road and rail infrastructure projects to [token animal rights policy][labour-animals] and an [extra sports holiday][labour-sports]. ([One sports holiday][melbourne-cup] just isn't enough.) If they added a statement on Climate Change it would actually be pretty good, but without it shares a growth obsession with Liberal.
 
 ### Greens
 
@@ -60,7 +60,7 @@ of years, and am hoping to see [Ellen
 Sandell](http://www.ellensandell.com/policies) do the same at state level.
 
 On November 29th I'm voting Greens first because they have the best policies.
-Labour second, because they are a better choice than Liberal. The Sex Party
+Labor second, because they are a better choice than Liberal. The Sex Party
 third: they're crazy and I hope it gives the Liberals something to think about
 that they ranked below them.
 
