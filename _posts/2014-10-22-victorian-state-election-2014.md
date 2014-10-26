@@ -5,8 +5,7 @@ category: articles
 tags: ['politics']
 ---
 
-The Victorian State Election is just six weeks away. In my electorate of
-Melbourne, four candidates are running representing The Greens, Liberal,
+The Victorian State Election is just six weeks away. In my electorate of Melbourne, four candidates are running representing The Greens, Liberal,
 Labor, and The Sex Party. I wanted to take a look at their policies.
 
 ### Liberal

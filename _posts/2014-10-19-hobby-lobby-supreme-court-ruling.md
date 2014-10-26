@@ -5,9 +5,7 @@ category: articles
 tags: ["law"]
 ---
 
-Today I read through the controversial and rather lengthy US Supreme Court's [_Hobby Lobby_ ruling][case].
-
-Reading it is like watching an epic giant robot battle, except you get to learn
+Today I read through the controversial and rather lengthy US Supreme Court's [_Hobby Lobby_ ruling][case]. Reading it is like watching an epic giant robot battle, except you get to learn
 something as well. Nine judges of the highest court in the land split their votes 5-4,
 each side providing a substantial argument. Exciting! I'm in no position to
 provide legal analysis, instead I'll just comment on parts I found interesting.

@@ -5,8 +5,7 @@ category: articles
 tags: ['law']
 ---
 
-Not sure how I stumbled across this, but yesterday I read a [2001 Supreme Court
-case][case] involving the Americans with Disabilities Act (ADA) and the PGA Tour. A disabled
+Not sure how I stumbled across this, but yesterday I read a [2001 Supreme Court case][case] involving the Americans with Disabilities Act (ADA) and the PGA Tour. A disabled
 golfer Casey Martin requires a cart to transit between holes, but that is
 against PGA regulations stating he must walk. Should Martin be protected under
 ADA and allowed to use a cart in competition?
