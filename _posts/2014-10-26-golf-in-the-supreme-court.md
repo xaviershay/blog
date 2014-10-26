@@ -75,7 +75,16 @@ I feel like the intent of ADA was to cover cases like this, particularly given
 golf's checkered discrimination history[^1]. But I don't find the rationale
 for Title III "public enjoyment" coverage convincing. Martin was clearly making
 a living from playing golf. Is this then a failure of legislation? How would
-you amend it?
+you anticipate or amend it though?
+
+> It is one of the surest indexes of a mature and developed jurisprudence not
+> to make a fortress out of the dictionary; but to remember that statutes
+> always have some purpose or object to accomplish, whose sympathetic and
+> imaginative discovery is the surest guide to their meaning.[^2]
+
+In this case, a weak argument in favour of the spirit of the ADA is probably
+the best outcome.
 
 [^1]: See a [couple](http://scholar.google.com/scholar_case?case=13082666964193724308&) of [cases](http://scholar.google.com/scholar_case?case=9957160910261617994) from the late sixties about whether the defendents should be required to "permit Negroes to play golf on a commercial course". Just this week, the President of the PGA was [fired for a sexist comment](http://www.golfwrx.com/251013/pga-president-ted-bishop-calls-poulter-a-lil-girl/).
+[^2]: Learned Hand in [Cabell v. Markham, 148 F. 2d 737 (1945)](http://scholar.google.com/scholar_case?case=15276921566891156202)
 
