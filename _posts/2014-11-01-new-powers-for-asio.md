@@ -64,7 +64,7 @@ Schedule 3 grants criminal and civil immunity to anyone involved in a "Special I
 
 The operation must limit any unlawful activity to "the maximum extent consistent with conducting and effective [operation]" (s 35C(2)c), but that doesn't seem much of a restriction. There is no necessary specification of the actual unlawful behaviour permitted, and illegally obtained evidence is protected under section 35A(2).
 
-Certain grave crimes are not covered by immunity: murder or serious injury, sexual offences, significant loss or serious damage to property, and torture. Disturbingly, tortune wasn't exempted in the [initial draft][initial-draft] of the bill and was only added after objections from the opposition.
+Certain grave crimes are not covered by immunity: murder or serious injury, sexual offences, significant loss or serious damage to property, and torture. Disturbingly, torture wasn't exempted in the [initial draft][initial-draft] of the bill and was only added after objections from the opposition.
 
 ### A Freeze Is Coming
 
