@@ -1,7 +1,7 @@
 ---
-layout: home
-title: "Recent Posts"
-tags: [Jekyll, theme, responsive, blog, template]
+layout: archive
+title: "Archive"
+tags: []
 image:
   feature: typewriter.jpg
 ---

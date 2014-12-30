@@ -16,9 +16,9 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Archive
-    url: /articles/
-  - title: About Me
+  - title: Archives
+    url: /
+  - title: About
     url: http://xaviershay.com
     external: true
 
