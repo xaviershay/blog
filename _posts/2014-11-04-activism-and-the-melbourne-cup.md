@@ -2,7 +2,7 @@
 layout: post
 title: "Activism and the Melbourne Cup"
 category: articles
-tags: ["veganism"]
+tags: ["veganism", "other"]
 image:
   feature: 'melbourne-cup.jpg'
   feature_credit:

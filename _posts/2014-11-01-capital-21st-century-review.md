@@ -3,7 +3,7 @@ layout: post-no-feature
 title: "Capital In The Twenty-First Century: A Review"
 category: articles
 date: 2014-11-01 19:45
-tags: ["review"]
+tags: ["reviews"]
 ---
 
 Piketty has done his research. His 685-page book _Capital In The Twenty-First Century_ collates substantial income and tax data for many different countries back into the 19th century. From this he concludes:

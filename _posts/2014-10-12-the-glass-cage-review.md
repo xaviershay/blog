@@ -2,7 +2,7 @@
 layout: post-no-feature
 title: "The Glass Cage: A Review"
 category: articles
-tags: ["review"]
+tags: ["reviews"]
 ---
 
 > What if the cost of machines that think is people who don’t?

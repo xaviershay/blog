@@ -388,6 +388,24 @@ header.site-header nav {
     float: none;
     padding-top: 140px;
     
+    .nav {
+      @include column(7);
+      @include push(2);
+
+      text-align: center;
+
+      ul {
+        margin-top: 22px;
+        margin-bottom: 22px;
+      }
+      li {
+        display: inline;
+        font-size: 22px;
+        margin-right: 5px;
+        margin-left: 5px;
+      }
+    }
+
     // Post Listing
     .post-list {
         list-style-type: none;

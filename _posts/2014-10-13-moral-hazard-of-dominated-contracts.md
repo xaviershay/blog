@@ -2,7 +2,7 @@
 layout: post-no-feature
 title: "The Moral Hazard of Dominated Contracts"
 category: articles
-tags: []
+tags: ["other"]
 ---
 
 [Martin][martin] recently refered me to a fascinating [article][paper] and [study][study], _Self-Control at Work_.

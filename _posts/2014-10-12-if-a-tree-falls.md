@@ -2,7 +2,7 @@
 layout: post
 title: "If A Tree Falls: A Review"
 category: articles
-tags: ["review"]
+tags: ["reviews"]
 date: 2014-10-12 4:00
 image:
   feature: trees.jpg
