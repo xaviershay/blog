@@ -373,11 +373,20 @@ header.site-header nav {
 // Archive Page
 
 .archive {
-    @include column(10);
+//    @include column(10);
     display: block;
     margin: 0 auto;
     float: none;
     min-height: 500px;
+
+    .featured-image, .overlay {
+      min-height: 0px;
+      height: 130px;
+    }
+
+    .overlay {
+      opacity: 0.2
+    }
 }
 
 .archive-wrap {
@@ -386,8 +395,8 @@ header.site-header nav {
     display: block;
     margin: 0 auto;
     float: none;
-    padding-top: 140px;
-    
+    padding-top: 50px;
+
     .nav {
       @include column(7);
       @include push(2);
@@ -396,7 +405,7 @@ header.site-header nav {
 
       ul {
         margin-top: 22px;
-        margin-bottom: 22px;
+        margin-bottom: 44px;
       }
       li {
         display: inline;
