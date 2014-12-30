@@ -1,8 +1,14 @@
 ---
-layout: post-no-feature
+layout: post
 title: "San Francisco Soda Tax"
 category: articles
 tags: ["politics"]
+image:
+  feature: 'soda.jpg'
+  feature_credit:
+    link: https://www.flickr.com/photos/poolie/2474643298
+    author: Poolie
+    title: "American Soda"
 ---
 
 This November San Fracisco residents will vote on [Proposition E](http://ballotpedia.org/City_of_San_Francisco_Sugary_Drink_Tax,_Proposition_E_(November_2014)), a measure that would impose a 24¢ tax on cans of Coke. Proceeds from this tax, estimated to be around $40 million, are required to be distributed among various related health and education initiatives.

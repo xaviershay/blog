@@ -1,9 +1,15 @@
 ---
-layout: post-no-feature
+layout: post
 title: "If A Tree Falls: A Review"
 category: articles
 tags: ["review"]
 date: 2014-10-12 4:00
+image:
+  feature: trees.jpg
+  feature_credit:
+    title: "Sunset in the Sonian Forest"
+    author: Teseum
+    link: https://www.flickr.com/photos/teseum/15704557249
 ---
 
 _If A Tree Falls_ is a documentary on the origin, expansion, and collapse of an Earth Liberation Front (ELF) cell in Portland. Members of the cell were eventually captured and sentenced for a number of arson attacks.

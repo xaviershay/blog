@@ -1,8 +1,14 @@
 ---
-layout: post-no-feature
+layout: post
 title: "Melbourne's East West Link"
 category: articles
 tags: ["politics"]
+image:
+  feature: highway.jpg
+  feature_credit:
+    author: "Maarten Takens"
+    title: "Abandoned Highway"
+    link: https://www.flickr.com/photos/takens/5558504129
 ---
 
 Tonight I'm reading about East West Link and Melbourne Rail. This was triggered by news that Napthine signed a secret contract [granting millions in special compensation to the builder in event of cancellation](http://www.theage.com.au/victoria/napthine-grants-millions-in-special-compensation-for-east-west-link-after-builder-threatens-to-walk-20140929-10nqg6.html). That seems pretty bullshit given labor has pledged to drop the contract if it wins the election later this year.

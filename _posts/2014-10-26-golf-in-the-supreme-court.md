@@ -1,8 +1,14 @@
 ---
-layout: post-no-feature
+layout: post
 title: "Golf In The Supreme Court"
 category: articles
 tags: ['law']
+image:
+  feature: 'golf.jpg'
+  feature_credit:
+    title: "Golf Club Against Ball"
+    author: "Wojciech Kulicki"
+    link: "https://www.flickr.com/photos/wkulicki/4010582747"
 ---
 
 Not sure how I stumbled across this, but yesterday I read a [2001 Supreme Court case][case] involving the Americans with Disabilities Act (ADA) and the PGA Tour. A disabled

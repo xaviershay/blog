@@ -1,8 +1,14 @@
 ---
-layout: post-no-feature
+layout: post
 title: "Deaths at Morwell"
 category: articles
 tags: ["politics"]
+image:
+  feature: morwell-quarry.jpg
+  feature_credit:
+    title: "Morwell Quarry"
+    author: "Chip 2904"
+    link: "https://www.flickr.com/photos/76384935@N00/3957658777"
 ---
 
 Local residents of Morwell were concerned about pollution deaths caused by fire at Hazelwood coal mine. They worked with Associate Professor Adrian Barnett from QUT to analyze data, and concluded in [freely available analysis](http://eprints.qut.edu.au/76230/) that it probably caused about 11-14 deaths.

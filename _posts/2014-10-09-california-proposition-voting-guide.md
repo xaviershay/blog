@@ -1,8 +1,14 @@
 ---
-layout: post-no-feature
+layout: post
 title: "California Proposition Voting Guide 2014"
 category: articles
 tags: ["politics"]
+image:
+  feature: yosemite-2.jpg
+  feature_credit:
+    author: "Dan Parsons"
+    title: "Half Dome Sunset Panorama"
+    link: "https://www.flickr.com/photos/dan90266/11141940434"
 ---
 
 I can't even vote here, but this is where I live so I have opinions. I'm no expert on any of these issues, so am open to persuasion. The [Legislative Analyst's Office](http://lao.ca.gov/BallotAnalysis/Propositions) provides a good overview of these propositions if you are unfamiliar.

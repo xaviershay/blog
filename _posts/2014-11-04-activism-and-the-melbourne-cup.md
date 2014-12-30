@@ -1,8 +1,14 @@
 ---
-layout: post-no-feature
+layout: post
 title: "Activism and the Melbourne Cup"
 category: articles
 tags: ["veganism"]
+image:
+  feature: 'melbourne-cup.jpg'
+  feature_credit:
+    title: "Horse Racing"
+    author: "Jessica Cross"
+    link: https://www.flickr.com/photos/jesscross/3169240519
 ---
 
 On Facebook [Drew](https://www.facebook.com/drewringsmuth) asks, in relation to yesterday's [Melbourne Cup](https://en.wikipedia.org/wiki/Melbourne_Cup):

@@ -1,8 +1,10 @@
 ---
-layout: post-no-feature
+layout: post
 title: "The US Judiciary: From Weak to Strong"
 category: articles
 tags: ["law"]
+image:
+  feature: 'judges.jpg'
 ---
 
 _This essay was written as part of an online course on the US Constitution, in response to questions about the formation and ongoing power of the judicial branch. Citing is a bit sloppy since I'm often parroting back lecture material that I didn't take the time to chase down actual sources for._

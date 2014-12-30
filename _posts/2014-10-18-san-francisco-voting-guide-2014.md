@@ -1,8 +1,14 @@
 ---
-layout: post-no-feature
+layout: post
 title: "San Francisco Proposition Voting Guide 2014"
 category: articles
 tags: ["politics"]
+image:
+  feature: 'san-francisco.jpg'
+  feature_credit:
+    link: https://www.flickr.com/photos/lostinablurryworld/5385125550
+    title: "San Francisco from Yerba Buena Island at Sunset"
+    author: "Jeanbaptiste Chaput"
 ---
 
 As a non-permanent resident I can't vote in San Francisco. I have lived here for three years though so have some opinions on the upcoming ballot. Last week I wrote about the [California State propositions](california-proposition-voting-guide.html), this post is about the local City ones. Ballotpedia has a [full list and text of the propositions](http://ballotpedia.org/San_Francisco_City_and_County,_California_ballot_measures) for your reference, and I also found [SPUR's analysis](https://www.spur.org/sites/default/files/publications_pdfs/SPUR_Voter_Guide_November_2014_print.pdf#page=13) to be useful even though they are partisan.
