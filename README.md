@@ -2,6 +2,8 @@
 
     bundle exec jekyll serve --watch
 
+Keep in progress stuff in `_wip`. Real posts go in `_posts`.
+
 # Deploy
 
     git push origin HEAD:gh-pages
