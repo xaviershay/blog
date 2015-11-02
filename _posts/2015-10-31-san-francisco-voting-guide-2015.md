@@ -29,7 +29,7 @@ Currently, parents may take 12 weeks leave between them. This change allows 12 e
 
 ### Prop C: Expenditure Lobbyists
 
-Reporting requirements for "indirect" lobbying, in the form of urging others to do the lobbying for you. Seems to be a decent amount of opposition to this from smaller non-profits worried about a chilling affect, but I'm not convinced it would be significant. You should know where your money is coming from, and making that data available should be mandatory. Transparency for money in politics is important.
+Reporting requirements for "indirect" lobbying, in the form of urging others to do the lobbying for you. Seems to be a decent amount of opposition to this from smaller non-profits worried about a chilling effect, but I'm not convinced it would be significant. You should know where your money is coming from, and making that data available should be mandatory. Transparency for money in politics is important.
 
 *Vote: Yes.*
 
