@@ -48,3 +48,12 @@ $(function(){
         setTimeout(function(){ t.addClass('slider'); }, (i+1) * 330);
     });
 });
+
+if (window.location.search.indexOf("imperial=true") >= 0) {
+  $('[data-alt]').each(function() {
+    $(this).text($(this).data('alt'));
+  })
+  $('[data-alt-href]').each(function() {
+    $(this).attr('href', $(this).data('alt-href'));
+  })
+}
