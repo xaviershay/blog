@@ -13,7 +13,7 @@ image:
 
 I first tried to run a sub-90 minute half marathon six(!) years ago, off three days a week training and two weeks of illness. [It didn't go so well.](http://www.two-shay.com/articles/running-and-goals)
 
-I didn't run much after that. Got into cycling, then climbing, then a half-hearted marathon attempt, then lifting, then crossfit, until finally this year I laced up my runners again in earnest. The initial target was a mid-year sub-90. Half way through my training in late April I PRed a test run at Bend with 92 minutes and change. Another month of high mileage, a couple more races (including a 10K PR of 40:23), and insufficient rest blew out my knee though, so training halted and I missed my race.
+I didn't run much after that. Got into cycling, then climbing, then a half-hearted marathon attempt, then lifting, then crossfit, until finally this year I laced up my runners again in earnest. The initial target was a mid-year sub-90. Half way through my training in late April I [PRed a test run at Bend](race-report-bend-half.html) with 92 minutes and change. Another month of high mileage, a couple more races (including a 10K PR of 40:23), and insufficient rest blew out my knee though, so training halted and I missed my race.
 
 <center><em>
 <span data-alt="Think in kays?">Think in miles?</span> <a data-alt-href="?" href="?imperial=true">Read this report with the <span data-alt="metric">imperial</span> system.</a>
