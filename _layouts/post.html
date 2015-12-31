@@ -5,8 +5,8 @@
 {% if page.image.feature %}
   <div class="overlay">
     {% if page.image.feature_credit %}
-      <div class='credit' style='position: absolute;bottom: 5px; right: 5px; color: white; opacity: 0'>
-        <a href="{{ page.image.feature_credit.link }}">
+      <div class='credit' style='position: absolute;bottom: 5px; right: 5px; color: white; opacity: 0.3'>
+        <a href="{{ page.image.feature_credit.link }}" style='color: white'>
           <em>{{ page.image.feature_credit.title }}</em>
           by {{ page.image.feature_credit.author }}</a>
       </div>
