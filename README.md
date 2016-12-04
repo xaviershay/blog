@@ -1,6 +1,6 @@
 # Development
 
-    bundle exec jekyll serve --watch
+    bin/dev
 
 Keep in progress stuff in `_wip`. Real posts go in `_posts`.
 
