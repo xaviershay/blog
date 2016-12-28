@@ -1,0 +1,20 @@
+s3_bucket: blog.xaviershay.com
+cloudfront_distribution_id: EXEJL82NAU4RW
+
+site: _site
+
+gzip:
+  - .html
+  - .css
+  - .md
+
+s3_reduced_redundancy: true
+
+cloudfront_distribution_config:
+  aliases:
+    quantity: 1
+    items:
+      - blog.xaviershay.com
+
+cloudfront_wildcard_invalidation: true
+cloudfront_invalidate_root: true
