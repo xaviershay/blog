@@ -1,5 +1,8 @@
 <meta charset="utf-8">
 <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
+
+<link rel="canonical" href="https://blog.xaviershay.com{{ page.url }}"/>
+<meta http-equiv="refresh" content="0;url=https://blog.xaviershay.com{{ page.url }}" />
 <meta name="description" content="{{ page.description }}">
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">
 
@@ -38,6 +41,7 @@
       window.location = window.location.toString().replace(/^http:/, "https:");
   </script>
 {% endif %}
+<script>location='https://blog.xaviershay.com{{ page.url }}'</script>
 
 <div id="bump">
   <body class="">

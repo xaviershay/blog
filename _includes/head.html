@@ -2,6 +2,8 @@
 <html lang="en">
 <meta charset="utf-8">
 <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
+<link rel="canonical" href="https://blog.xaviershay.com{{ page.url }}"/>
+<meta http-equiv="refresh" content="0;url=https://blog.xaviershay.com{{ page.url }}" />
 <meta name="description" content="{{ page.description }}">
 <meta name="keywords" content="{{ page.tags | join: ', ' }}">
 
@@ -48,7 +50,7 @@
       window.location = window.location.toString().replace(/^http:/, "https:");
   </script>
 {% endif %}
-
+<script>location='https://blog.xaviershay.com{{ page.url }}'</script>
 <div id="bump">
   <body class="">
     <header class="site-header">
@@ -60,7 +62,7 @@
         <nav role="navigation">
           <ul>
             {% for link in site.links %}
-                <li><a href="{% if link.external %}{{ link.baseurl }}{% else %}{{ site.baseurl }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
+                <li><a href="{% if link.external %}{{ link.url }}{% else %}{{ site.baseurl }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>
             {% endfor %}
 
           </ul>
