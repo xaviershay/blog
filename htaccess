@@ -1,5 +1,4 @@
 ---
-layout: none
 permalink: .htaccess
 ---
 RewriteCond %{REQUEST_URI}  !\.(jpg|gif|css|png|js)$
