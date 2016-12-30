@@ -1,0 +1,12 @@
+<nav class='reading-list'>
+  Archive –
+  {% for post in site.tags["reading-list"] reversed %}
+    <a href="{{ site.baseurl }}{{ post.url }}">
+      {{ post.date | date: "%Y" }}
+    </a>
+    {% if forloop.last %}
+    {% else %}
+      <span class='separator'>|</span>
+    {% endif %}
+  {% endfor %}
+</nav>

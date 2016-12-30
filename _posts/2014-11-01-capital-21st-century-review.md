@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: post
 title: "Capital In The Twenty-First Century: A Review"
 category: articles
 date: 2014-11-01 19:45

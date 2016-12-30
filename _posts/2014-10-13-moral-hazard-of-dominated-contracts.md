@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: post
 title: "The Moral Hazard of Dominated Contracts"
 category: articles
 tags: ["other"]

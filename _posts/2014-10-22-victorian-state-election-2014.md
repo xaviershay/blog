@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: post
 title: "Victorian State Election 2014"
 category: articles
 tags: ['politics']

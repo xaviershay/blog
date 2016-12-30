@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: post
 title: "Hobby Lobby Supreme Court Ruling"
 category: articles
 tags: ["law"]

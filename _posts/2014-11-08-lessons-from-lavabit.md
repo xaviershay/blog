@@ -1,5 +1,5 @@
 ---
-layout: post-no-feature
+layout: post
 title: "Lessons From Lavabit"
 category: articles
 tags: ["law"]
