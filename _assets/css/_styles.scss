@@ -401,6 +401,9 @@ header.site-header nav {
       @include column(7);
       @include push(2);
 
+      display: block;
+      float: none;
+
       text-align: center;
 
       ul {
