@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" itemscope itemtype="http://schema.org/Blog">
 <meta charset="utf-8">
 <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
 <meta name="description" content="{{ page.description }}">
@@ -33,11 +33,11 @@
   <div id="bump">
     <header class="site-header {{ include.style }}">
       <div class="wrap">
-        <hgroup>
+        <div class='hgroup'>
           <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-        </hgroup>
+        </div>
         <a href="#nav" class="menu"><span class='icons'>☰</span></a>
-        <nav role="navigation">
+        <nav>
           <ul>
             {% for link in site.links %}
                 <li><a href="{% if link.external %}{{ link.baseurl }}{% else %}{{ site.baseurl }}{{ link.url }}{% endif %}" {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a></li>

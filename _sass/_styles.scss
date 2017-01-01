@@ -253,10 +253,10 @@ header.site-header a.menu {
   display: none;
 }
 
-header.site-header hgroup h1, header.site-header nav ul {
+header.site-header .hgroup h1, header.site-header nav ul {
   font-family: $sans;
 }
-header.site-header hgroup {
+header.site-header .hgroup {
   float: left;
   padding-left: 5vw;
   h1 {
@@ -348,7 +348,7 @@ header.site-header nav {
     // Header Stuff
     header {
         margin: (2*$lh) 0 $lh 0;
-        hgroup {
+        .hgroup {
             color: $black;
             position: relative;
             text-align: center;
@@ -424,8 +424,8 @@ header.site-header nav {
         display: block;
         float: none;
 
-        lh h2 {
-            margin-bottom: $lh*1.5;
+        .lh {
+            margin-bottom: $lh*1.2;
         }
 
         li {
@@ -469,7 +469,7 @@ header.site-header nav {
 
             }
 
-            h1 {
+            h2 {
                 font-size: $fs3;
                 font-style: italic;
             }
@@ -559,7 +559,7 @@ header.site-header nav {
         margin-bottom: $lh;
         list-style: disc;
         list-style-type: disc;
-        lh h1, lh h2, lh h3, lh h4, lh h5 {
+        .lh h1, .lh h2, .lh h3, .lh h4, .lh h5 {
             @include underline(2px, solid, $grey-light);
         }
         li {
@@ -576,7 +576,7 @@ header.site-header nav {
     ol {
         display: block;
         margin-bottom: $lh;
-        lh h1, lh h2, lh h3, lh h4, lh h5 {
+        .lh h1, .lh h2, .lh h3, .lh h4, .lh h5 {
             @include underline(2px, solid, $grey-light);
         }
         li {
@@ -660,10 +660,12 @@ footer {
         max-width: 600px;
         min-height: 250px;
         padding-left: 5vw;
-        p {
+        .list-title {
             padding-top: $lh*2;
+            line-height: $lh;
+            list-style: none;
         }
-        li {
+        li.item {
             @include row(12);
             margin-top: $lh/2;
             .recent-title {
@@ -800,12 +802,12 @@ footer {
     padding-top: 0;
   }
 
-  header.site-header hgroup h1 {
+  header.site-header .hgroup h1 {
     margin-bottom: 0;
     font-size: $fsp;
   }
 
-  header.site-header hgroup {
+  header.site-header .hgroup {
     position: absolute;
     left: 7%;
     float: none;
