@@ -14,6 +14,7 @@
 
 
 <link href="{{ site.baseurl }}/feed.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+<link rel="icon" type="image/png" href="/images/citizen.gif" />
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -21,37 +22,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- Type -->
-<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" rel='stylesheet' type='text/css' />
-<link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Crimson+Text:400,400italic,700,700italic" type='text/css' />
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" type='text/css'>
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/entypo.css" media="all">
-<link rel="icon" type="image/png" href="/blog/images/citizen.gif" />
-
-<!-- In order to use Calendas Plus, you must first purchase it. Then, create a font-face package using FontSquirrel.
-<link rel='stylesheet' href='{{ site.baseurl }}/assets/cal.css' media='all' />
--->
-
-
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/i.css">
 
-<meta http-equiv="cleartype" content="on">
-
-{% if site.enforce_ssl %}
-<!--
-  redirect users to the https version of the website.
-  but: only check when on the production domain, as set in _config.yml.
- -->
-<script type="text/javascript">
-    var enforce = "{{ site.enforce_ssl }}";
-    if ((enforce == window.location.host) && (window.location.protocol != "https:"))
-      window.location = window.location.toString().replace(/^http:/, "https:");
-  </script>
-{% endif %}
-
-<div id="bump">
-  <body class="">
-    <header class="site-header">
+<body class="">
+  <div id="bump">
+    <header class="site-header {{ include.style }}">
       <div class="wrap">
         <hgroup>
           <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
@@ -67,3 +47,4 @@
         </nav>
       </div>
     </header>
+  </div>
