@@ -37,8 +37,14 @@ kramdown:
 sass:
     style: :compressed
 
+assets:
+  digest: true
+
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title.html
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+
+gems:
+  - "jekyll-assets"
