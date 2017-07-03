@@ -16,7 +16,7 @@ links:
   - title: Archives
     url: /
   - title: About
-    baseurl: http://xaviershay.com
+    baseurl: https://xaviershay.com
     external: true
 
 archive_tags: ["politics", "law", "reviews", "other"]

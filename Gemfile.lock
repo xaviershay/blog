@@ -3,13 +3,13 @@ GEM
   specs:
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
-    aws-sdk (2.6.43)
-      aws-sdk-resources (= 2.6.43)
-    aws-sdk-core (2.6.43)
+    aws-sdk (2.10.7)
+      aws-sdk-resources (= 2.10.7)
+    aws-sdk-core (2.10.7)
       aws-sigv4 (~> 1.0)
       jmespath (~> 1.0)
-    aws-sdk-resources (2.6.43)
-      aws-sdk-core (= 2.6.43)
+    aws-sdk-resources (2.10.7)
+      aws-sdk-core (= 2.10.7)
     aws-sigv4 (1.0.0)
     colorator (1.1.0)
     colored (1.2)
@@ -62,7 +62,7 @@ GEM
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
     rouge (1.11.1)
-    s3_website (3.0.0)
+    s3_website (3.1.0)
       colored (= 1.2)
       configure-s3-website (= 2.0.0)
       dotenv (~> 1.0)
@@ -83,4 +83,4 @@ DEPENDENCIES
   s3_website
 
 BUNDLED WITH
-   1.13.6
+   1.14.6
