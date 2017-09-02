@@ -8,7 +8,7 @@ owner:
   email:          contact@xaviershay.com
   twitter:        xshay
   github:         xaviershay
-  location:       "San Franciso, USA"
+  location:       "San Francisco, USA"
 
 # Links to include in top navigation
 # For external links add external: true
@@ -19,7 +19,7 @@ links:
     baseurl: https://xaviershay.com
     external: true
 
-archive_tags: ["politics", "law", "reviews", "other"]
+archive_tags: ["reviews", "politics", "law", "other"]
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Los_Angeles
