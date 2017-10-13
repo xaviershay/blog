@@ -10,3 +10,5 @@ posts go in `_posts`. Configuration is in `_config.yml`.
 ## Deploy
 
     bin/publish
+
+Find it at https://blog.xaviershay.com
