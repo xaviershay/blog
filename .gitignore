@@ -6,3 +6,4 @@ _site
 .jekyll-metadata
 .env
 .asset-cache
+.DS_Store
