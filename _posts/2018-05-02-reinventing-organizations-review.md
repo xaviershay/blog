@@ -127,3 +127,5 @@ No matter how much we try to fight against it with culture, heirachical
 management structures are fundamentally dehumanizing and disempowering.
 Idealistic as it may be, this book shows that at least in some cases, a better
 world is possible. If even just for that, it's worth your consideration.
+
+<center><em>Follow my reading on <a href="https://www.goodreads.com/user/show/2875383-xavier-shay">Goodreads</a>.</em></center>
