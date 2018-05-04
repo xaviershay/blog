@@ -40,13 +40,13 @@ _Reinventing Organizations_ provides suggestions for all three.
 > "We aim to make money without knowing how we do it, as opposed to the old way
 > of losing money knowing exactly how we lose it.”
 
-Many of the companies surveyed weren't just successful—they were industry leaders. Buurtzorg in the Netherlands has grown to [14,000 employees in 10 years](https://corporate-rebels.com/buurtzorg/) and continues to grow. FAVI, a car parts manufactur, is the only manufacturer left in their region and turned a profit through the crashes of 2008 and 2012 while avoiding layoffs. Since the book was published we have more examples such as Zappos and Medium.
+Many of the companies surveyed weren't just successful—they were industry leaders. Buurtzorg in the Netherlands has grown to [14,000 employees in 10 years](https://corporate-rebels.com/buurtzorg/) and continues to grow. FAVI, a car parts manufacturer, is the only manufacturer left in their region and turned a profit through the crashes of 2008 and 2012 while avoiding layoffs. Since the book was published we have more examples such as Zappos and Medium.
 
 Is it possible that these organizations would be more effective with a traditional management structure? Perhaps in some cases (AES/Zappos/Medium?), very unlikely in others (Buurtzorg/FAVI?), but this question sets a needlessly high bar. Given the potential human benefits, and creation of a space where people can bring their full selves and creativity to work, I'm mostly interested in whether self-management can be _viable_.
 
 This approach of results-without-knowing-it reminds me of the [illegible/legible dichotomy from _Seeing Like A State_](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/). By making success legible to certain measures, it's dangerously easy to extinguish the hidden components of that success.
 
-In addition to top line revenue and growth, some of this success can be attributed to lower costs. Self-organizing companies keep their functional units as small as possible, prefering wherever feasible to have responsibilities handled within teams themselves. This makes no sense from a hard economic perspective but the companies found "the economies of scale and skill resulting from staff functions are often outweighed by the diseconomies of motivation produced." In other words, having teams be responsible for typical support functions such as budgeting, training, and procurement enabled teams to feel strong ownership over their results.
+In addition to top line revenue and growth, some of this success can be attributed to lower costs. Self-organizing companies keep their functional units as small as possible, preferring wherever feasible to have responsibilities handled within teams themselves. This makes no sense from a hard economic perspective but the companies found "the economies of scale and skill resulting from staff functions are often outweighed by the diseconomies of motivation produced." In other words, having teams be responsible for typical support functions such as budgeting, training, and procurement enabled teams to feel strong ownership over their results.
 
 Further, companies were able to temporarily scale down costs in economic downturns. FAVI collectively decided to work less and take a pay cut rather than layoffs, which enabled them to keep their group cohesion and accelerate out of the downturn once it reversed.
 
@@ -56,19 +56,19 @@ When anyone can make a decision, having a decision making process is critical. T
 
 This is not a consensus process. Not everyone consulted needs to buy in. People making decisions in this way feel a deep responsibility to ensuring that it continues to be the right one, while people who disagree feel a responsibility to hold them accountable.
 
-This is not sufficient for a cohesive strategy though. For that, companies developed practices to ensure everyone was tapping into the "organisational conciousness" and aligned on where it wanted to go. These ranged widely from vibrant internal blogs to intensive group therapy. In all cases though, there was a commitment to participation in these processes.
+This is not sufficient for a cohesive strategy though. For that, companies developed practices to ensure everyone was tapping into the "organizational consciousness" and aligned on where it wanted to go. These ranged widely from vibrant internal blogs to intensive group therapy. In all cases though, there was a commitment to participation in these processes.
 
 In rare cases, founders decided to suspend the advice process in times of
 crisis. When this happened, two guidelines seemed to minimize the cultural
 impact of this:
 
-> Give full transparency about the scope and timeframe of top-down decision-making, and appoint someone to make those decisions who will not be suspected of continuing to exert such powers when the crisis is over.
+> Give full transparency about the scope and time frame of top-down decision-making, and appoint someone to make those decisions who will not be suspected of continuing to exert such powers when the crisis is over.
 
 ### Hard Things
 
 Dealing with conflict resolution was reported by all organizations as the top issue that needed to be directly addressed through training and continual support.
 
-In a typical heirachy we sweep much of this under the rug by mediating
+In a typical hierarchy we sweep much of this under the rug by mediating
 through managers. Take for example a typical "360 degree" feedback process,
 where peers and subordinates submit feedback anonymously to a person's manager.
 The manager then anonymizes, synthesizes, and delivers it. In an organization
@@ -92,9 +92,9 @@ techniques such as [Non-Violent
 Communication](https://en.wikipedia.org/wiki/Nonviolent_Communication) served
 as a foundation for productive and compassionate conflict.
 
-### Holocracy
+### Holacracy
 
-Holocracy is not much talked about in this book, but is what most people think of when they hear self-management. And the popular impression isn't positive: in a [post announcing they were moving away from Holocracy](https://blog.medium.com/management-and-organization-at-medium-2228cc9d93e9), Andy Doyle from Medium acknowledged that popular perception of the practice had hurt their ability to attract people:
+Holacracy is not much talked about in this book, but is what most people think of when they hear self-management. And the popular impression isn't positive: in a [post announcing they were moving away from Holacracy](https://blog.medium.com/management-and-organization-at-medium-2228cc9d93e9), Andy Doyle from Medium acknowledged that popular perception of the practice had hurt their ability to attract people:
 
 > Holacracy has become fraught with misconceptions that make it hard to separate the actual system from the imagined one. In recruiting, this became a problem—particularly among more experienced candidates, who worried that they were being hired as “bosses” in a boss-less company.
 
@@ -102,7 +102,7 @@ This strikes me as similar to what happened when the _Manifesto for Agile Softwa
 
 > Forming an industry group around the four values always struck me as creating a trade union for people who breathe. [...] The word “agile” has been subverted to the point where it is effectively meaningless, and what passes for an agile community seems to be largely an arena for consultants and vendors to hawk services and products.
 
-Holocracy may provide a useful system of processes for self-management, particularly at larger organisations with longer value chains, but as with any "Agile practices" they would need to be selectively applied with an understanding of their foundational principles to be effective.
+Holacracy may provide a useful system of processes for self-management, particularly at larger organizations with longer value chains, but as with any "Agile practices" they would need to be selectively applied with an understanding of their foundational principles to be effective.
 
 ### Criticism
 
@@ -113,7 +113,7 @@ Finding the right people seems critical. Not everyone is willing or able to work
 > meant to be. Almost always, the departure happens by mutual consent, on a
 > friendly basis.
 
-In particular, senior people from traditional organisations seem to have a harder time, since they lose most of the management tools and power that historically enabled them to be effective.
+In particular, senior people from traditional organizations seem to have a harder time, since they lose most of the management tools and power that historically enabled them to be effective.
 
 I'm curious what effect this extra filter has on the diversity of teams. I can see good theoretical arguments both ways: a focus on compassion and self-awareness should lead to being able to include a wider variety of people, but the inherent difficultly in conflict resolution could also lead teams to hire people "just like them" since they know they can get along. This topic wasn't addressed in the book, though it did give examples of people coming together to identify and address structural "isms" (race, sex, age, etc...) in their workplaces.
 
@@ -121,9 +121,9 @@ While not directly addressing failure, Laloux does identify a critical condition
 
 > Can a middle manager put [these] practices in place for the department he is responsible for? When I am asked this question, as much as I would like to believe the opposite, I tell people not to waste their energy trying. Experience shows that efforts to bring [self-managing] practices into subsets of organizations bear fruit, at best, only for a short while.
 
-This book was primarily a survey of how self-managing organisations succeed. I would also like the counterpart: how they fail. While there are clearly some common practices among successful companies, it still feels to me that there are few enough of them that they could be flukes of survivor bias. (Laloux is self-aware of this possibility.) Though a depressing thought, it may be that creating a successful self-managing organisation requires such an extreme degree of effort and luck that attempting to do so would not be rational.
+This book was primarily a survey of how self-managing organizations succeed. I would also like the counterpart: how they fail. While there are clearly some common practices among successful companies, it still feels to me that there are few enough of them that they could be flukes of survivor bias. (Laloux is self-aware of this possibility.) Though a depressing thought, it may be that creating a successful self-managing organization requires such an extreme degree of effort and luck that attempting to do so would not be rational.
 
-No matter how much we try to fight against it with culture, heirachical
+No matter how much we try to fight against it with culture, hierarchical
 management structures are fundamentally dehumanizing and disempowering.
 Idealistic as it may be, this book shows that at least in some cases, a better
 world is possible. If even just for that, it's worth your consideration.
