@@ -27,7 +27,7 @@ don't get injured.
 <p />
 
 As a bonus, Brent was also trying to do the same thing, so I had a training and
-race partner as well.
+race partner as well. (He posted a [race report](https://brentnowak.net/2018/05/07/race-report-avenue-of-the-giants-half-marathon/) also.)
 
 ![Brent and I running]({{ site.baseurl }}/images/theave-running.jpg)
 <center><em>Brent on the left, me on the right. Those trees tho.</em></center>
