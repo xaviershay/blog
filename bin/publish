@@ -6,4 +6,4 @@ set -xe
 # bundle exec s3_website cfg apply
 
 bundle exec jekyll build
-bundle exec s3_website push
+PATH=/usr/lib/jvm/java-8-openjdk-amd64/bin/:$PATH bundle exec s3_website push
