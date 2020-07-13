@@ -16,7 +16,7 @@ Not all of these are appropriate for every person and every situation, and some 
 
 Seek to challenge your internal narratives with evidence. I like this framing because it suggests action: finding a way to get feedback that you trust, or figuring out the best way to act on feedback you've already received. Most of the time the answer to this question will be "recently" and "positive" – use this feedback to interrupt negative thought loops.
 
-#### Some effort is better than no effort"
+#### Some effort is better than no effort
 
 Alternatively: "I may not be the best person to do the job, but I'm the person currently doing it."
 In knowledge jobs, it's quite common that if you are not pushing forward a particular project, no one else will. In most of those cases, any amount of effort is preferable to the project not moving forward. This mantra can counter feelings of “I’m not good enough” or “I don’t have the skills”.
@@ -41,4 +41,4 @@ As you progress further in your career and start developing more options and con
 
 This is a particularly good one for managers. You will usually have a much better line of communication with the people on your team than other people in an organisation. If you're regularly talking with and listening to them, you may be able to take solace that no matter what your boss thinks of you, you know you're doing at least something right to the people close to you who matter.
 
-This concious interrupting of negative spirals is just one small technique. The best thing you can do if feeling overwhelmed by imposter syndrome is find some you can talk to about it – be it a manager, colleague, friend, or therapist. Imposter Syndrome is extremely common, and you are not alone in dealing with it.
+This concious interrupting of negative spirals is just one small technique. The best thing you can do if feeling overwhelmed by imposter syndrome is find someone you can talk to about it – be it a manager, colleague, friend, or therapist. Imposter Syndrome is extremely common, and you are not alone in dealing with it.
