@@ -911,3 +911,14 @@ nav.reading-list {
   text-align: center;
   margin-bottom: $lh;
 }
+
+.image-strip {
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+.post .image-strip img {
+  display: inline;
+  margin-top: 0;
+  margin-bottom: 1em;
+}
