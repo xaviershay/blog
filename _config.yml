@@ -46,5 +46,5 @@ permalink:   /:categories/:title.html
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
 
-gems:
+plugins:
   - "jekyll-assets"

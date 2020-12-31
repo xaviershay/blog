@@ -7,3 +7,4 @@ _site
 .env
 .asset-cache
 .DS_Store
+.jekyll-cache
