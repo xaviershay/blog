@@ -1,4 +1,4 @@
-title:            "Xavier Shay: Citizen"
+title:            "Xavier Shay"
 description:      I write about things.
 canonical: https://blog.xaviershay.com
 
@@ -8,7 +8,7 @@ owner:
   email:          contact@xaviershay.com
   twitter:        xshay
   github:         xaviershay
-  location:       "San Francisco, USA"
+  location:       "Melbourne, AU"
 
 # Links to include in top navigation
 # For external links add external: true
