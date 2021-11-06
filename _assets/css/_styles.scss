@@ -922,3 +922,13 @@ nav.reading-list {
   margin-top: 0;
   margin-bottom: 1em;
 }
+
+table td, table th {
+  padding-right: 0.5em;
+  font-size: 22px;
+}
+
+table th {
+  font-weight: bold;
+  text-align: left;
+}
