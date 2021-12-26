@@ -13,8 +13,6 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Archives
-    url: /
   - title: About
     baseurl: https://xaviershay.com
     external: true

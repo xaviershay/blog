@@ -1,5 +1,6 @@
 {% include head.html %}
 
+{% assign current_year = nil %}
 
 <section class="article archive">
   <div class="overlay">
@@ -7,30 +8,21 @@
   <div class="featured-image" style="background-image: url({{ site.baseurl }}/images/selfie.jpg)">
   </div>
   <article class="archive-wrap">
-    <div class='nav'>
-      <h1>Archives</h1>
-      <ul>
-        <li><a href='#reviews'>Reviews</a></li>
-        <li><a href='#politics'>Politics</a></li>
-        <li><a href='#law'>Law</a></li>
-        <li><a href='#other'>Other</a></li>
-      </ul>
-    </div>
-
-    {% for tag in site.archive_tags %}
-      <ol class="post-list">
-        <li class='lh'><h2><span class="bb" id='{{tag}}'>{{ tag | capitalize }}</span></h2></li>
-          {% for post in site.tags[tag] %}
-          <li>
-            <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-                <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-                <p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>
-                <p class="">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
-            </div>
-          </li>
-          {% endfor %}
-      </ol>
-    {% endfor %}
+    <ol class="post-list">
+      {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+      {% for year in postsByYear %}
+        <li class='lh'><h2><span class="bb">{{year.name}}</span></h2></li>
+        {% for post in year.items %}
+        <li>
+          <div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+              <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+              <p class="date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></p>
+              <p class="">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
+          </div>
+        </li>
+        {% endfor %}
+      {% endfor %}
+    </ol>
   </article>
 </section>
 
