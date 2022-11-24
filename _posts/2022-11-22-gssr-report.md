@@ -7,7 +7,7 @@ image:
   feature: 'gssr/hero.jpg'
 ---
 
-Dad and I ran the inaugral Great Southern Stage Race together along the south coast of Western Australia, with Mum crewing. I covered <span data-alt="125mi">200K</span> over 3 days of running, my longest ever effort.
+Dad and I ran the inaugural Great Southern Stage Race together along the south coast of Western Australia, with Mum crewing. I covered <span data-alt="125mi">200K</span> over 3 days of running, my longest ever effort.
 
 ![Dad, Mum and I at the finish line](/images/gssr/trio-finish.jpg)
 
@@ -25,15 +25,15 @@ My schedule was generally back to back runs on the weekend (either a longer work
 * A stunning run along the [north side of Sydney Harbour](https://www.strava.com/activities/7825135642). ![Sydney](/images/gssr/sydney.jpg)
 * Pacing Vee and James around the [Melbourne Marathon](https://www.strava.com/activities/7897110506), then running to and from afterparties, culminating in a 65K day. (This was _technically_ my peak distance week at 115K but it was a bit cheeky and not on the schedule.) ![Vee, James and I at the finish of Melbourne Marathon](/images/gssr/melb-mara.jpg)
 
-Overall my training was suboptimal. I would have loved another cycle or two and some proper intermediary races, but I feel I made the most of what I was able to do given my injury.
+Overall my training was sub-optimal. I would have loved another cycle or two and some proper intermediary races, but I feel I made the most of what I was able to do given my injury.
 
-### Transport and Accomodation
+### Transport and Accommodation
 
 The race starts at Walpole, which was relatively difficult to get to, particularly since I was meeting my parents there so travelling solo. Flew Melbourne to Perth (delayed), collected baggage and connector bus to terminal 3 (practically a different suburb), regional flight in a tiny twin prop Perth to Albany (also delayed), then caught a $250 taxi to Walpole, arriving at 8pm the night before the race. Missed check-in, race briefing, and gear check, but managed to make alternate arrangements.
 
-Should have flown a day earlier, if only to reduce risk and stress of not getting there on time, and to be able to check-in properly. There is a once a day bus from Albany to Walpole but I'm not sure that would have been much cheaper after factoring in an extra night of accomodation plus taxi from the airport. I would expect most people to be travelling with their crew and so to have a hire car to work with, which would be much easier.
+Should have flown a day earlier, if only to reduce risk and stress of not getting there on time, and to be able to check-in properly. There is a once a day bus from Albany to Walpole but I'm not sure that would have been much cheaper after factoring in an extra night of accommodation plus taxi from the airport. I would expect most people to be travelling with their crew and so to have a hire car to work with, which would be much easier.
 
-For the race we stayed in the recommended accomodation. The night before and first night of the race was a cabin in Walpole at Coalmine Beach Caravan Park. The final two nights were a cabin at Camp Kennedy, which was the finish for day 2 and start of day 3. Pretty sparse, but we were only sleeping there and it was exceptionally nice to finish 100m from my bed on day 2! The shared mess hall at Kennedy was also a good time.
+For the race we stayed in the recommended accommodation. The night before and first night of the race was a cabin in Walpole at Coalmine Beach Caravan Park. The final two nights were a cabin at Camp Kennedy, which was the finish for day 2 and start of day 3. Pretty sparse, but we were only sleeping there and it was exceptionally nice to finish 100m from my bed on day 2! The shared mess hall at Kennedy was also a good time.
 
 This was the first event I've been to that provided _good_ plant-based options at every catered meal. Very impressive.
 
@@ -81,9 +81,9 @@ Started pouring rain right towards the end as we came into the checkpoint, which
 
 ![Hello](/images/gssr/shaka.jpg)
 
-Began along a flat track along the water's edge. Developed a problem with my left achilles, could run flat and down ok but could only hobble up inclines. I suspect this was a combination of a pressure point from my shoe and not having trained for the amount of hiking we had been doing. Comicly, I couldn't run up hills and dad couldn't run down them! We started rubber banding. Very tough leg.
+Began along a flat track along the water's edge. Developed a problem with my left achilles, could run flat and down ok but could only hobble up inclines. I suspect this was a combination of a pressure point from my shoe and not having trained for the amount of hiking we had been doing. Comically, I couldn't run up hills and dad couldn't run down them! We started rubber banding. Very tough leg.
 
-Next checkpoint was at the bottom of a hill so I got in first and took some extra rest. Taking shoes off relieved pressure on achilles and gave me confidence it was going to be managable.
+Next checkpoint was at the bottom of a hill so I got in first and took some extra rest. Taking shoes off relieved pressure on achilles and gave me confidence it was going to be manageable.
 
 ![Beach](/images/gssr/beach-vista.jpg)
 
@@ -431,15 +431,19 @@ I came first in my U40 age group!
 
 <p />
 
-Was overhydrated on the first two days, don't need as much liquid when hiking apparently. Otherwise felt pretty good and consistent.
+Was over-hydrated on the first two days, don't need as much liquid when hiking apparently. Otherwise felt pretty good and consistent.
 
-### Acknowledgements
+### Acknowledgments
+
+It's a bit misleading to call this a "solo" race, with so many people supporting.
+
+Sam, John, and the team and volunteers at Rapid Ascent. Great course, great support, well done.
 
 Tim, thanks for the patience and revisions in my coaching program. I don't think I could have programmed a recovery for this by myself.
 
 Jodie, for always letting me take the car on weekends. (And the rest.)
 
-Dad, it was truly an honour to be able to do this with you. There aren't many people who get to share a hobby like this with their Dad. I'm grateful every single time we are able to run together. The depth of courage you displayed getting as far you did was inspirational.
+Dad, it was truly an honour to be able to run with you. There aren't many people who get to share a hobby like this with their Dad. I'm grateful every single time we are able to run together. The depth of courage you displayed getting as far you did was inspirational.
 
 Mum, this absolutely could not have happened without you. You're an absolute superstar. The amount of standing around in the rain for us you did is far beyond anything I could ever expect of anyone. Truly grateful, you're the best Mum I could possibly wish for.
 
