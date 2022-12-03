@@ -9,6 +9,8 @@ posts go in `_posts`. Configuration is in `_config.yml`.
 
 ## Deploy
 
-    bin/publish
+Requires the AWS CLI to be installed and `aws login`.
+
+    bin/publish-v2
 
 Find it at https://blog.xaviershay.com
