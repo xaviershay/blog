@@ -6,22 +6,37 @@ require 'pp'
 
 config = YAML.load(File.read("s3_website.yml"))
 
-local = "_site"
-staging = "_staged"
+staging = "_site"
 bucket = config.fetch("s3_bucket")
 cloudfront_id = config.fetch("cloudfront_distribution_id")
 redirects = config.fetch("redirects", {})
 
+# List from https://github.com/philnash/jekyll-gzip
+compressed = %w(
+  html
+  css
+  js
+  json
+  txt
+  ttf
+  atom
+  stl
+  xml
+  svg
+  eot
+)
+
 cmds = []
+
 
 # TODO: This approach always reuploads everything. Not what we want. I think
 # sync uses mtime, so need a way of preserving that.
 
-cmds << "rm -Rf %s" % staging
-cmds << "bundle exec jekyll build"
-cmds << "cp -R %s %s" % [local, staging]
-cmds << "find %s -type f -exec gzip -n {} \\; -exec sh -c 'mv \"$1.gz\" \"${1%%}\"' -- {} \\;" % [staging]
-cmds << "aws s3 sync %s s3://%s/ --content-encoding gzip" % [staging, bucket]
+cmds << "JEKYLL_ENV=production bundle exec jekyll build --incremental"
+params = compressed.map {|x| "--include \"*.#{x}\"" }.join(" ")
+cmds << "aws s3 sync %s s3://%s/ --content-encoding gzip --exclude \"*\" #{params}" % [staging, bucket]
+params = compressed.map {|x| "--exclude \"*.#{x}\"" }.join(" ")
+cmds << "aws s3 sync %s s3://%s/ #{params}" % [staging, bucket]
 cmds << "aws cloudfront create-invalidation --distribution-id %s --paths \"/*\"" % [cloudfront_id]
 
 if false
