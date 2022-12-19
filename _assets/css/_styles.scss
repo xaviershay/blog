@@ -912,12 +912,31 @@ nav.reading-list {
   margin-bottom: $lh;
 }
 
+.tiktok-strip {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: normal;
+  align-content: normal;
+}
+
+.tiktok-embed {
+  width: 0 !important; // To override the 100% in the embed link code
+}
+
 .image-strip {
   text-align: center;
   margin-bottom: 1em;
 }
 
 .post .image-strip img {
+  display: inline;
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+.post .image-strip blockquote {
   display: inline;
   margin-top: 0;
   margin-bottom: 1em;
